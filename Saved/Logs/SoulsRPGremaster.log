@@ -693,3 +693,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.17-00.09.05:731][789]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestingLevel_BuiltData.TestingLevel_BuiltData
 [2022.01.17-00.10.34:552][982]LogTemp: Repeating last play command: Standalone Game
 [2022.01.17-00.10.34:586][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.01.17-00.30.50:514][398]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_Main/Player/AnimBP_Greystone.AnimBP_Greystone
+[2022.01.17-00.30.50:518][398]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.01.17-00.30.50:793][398]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2022.01.17-00.30.50:956][398]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.17-00.30.50:988][398]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.17-00.30.50:992][398]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
